@@ -31,10 +31,7 @@ public class M17B_projetoColab_FichaTrab3 {
         //               Team | Remote | Push
         
         // NOVO CÓDIGO SÓ ABAIXO DESTA LINHA 
-              
-
-       
-        
-
+        poligonos[7] = new Retangulo("a23109", 8 , 7);
+        System.out.println(poligonos[7]);
     }
 }
